@@ -1,0 +1,17 @@
+{
+	id: "e1ad1fa3-67f1-363d-8340-ce7cb4c86d00"
+	type: "player"
+	player_name: "Jorgerap"
+	ranks: {
+		e1ad1fa3-67f1-363d-8340-ce7cb4c86d00: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Jorgerap"
+		"ftbteams:description": ""
+		"ftbteams:color": "#7DFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
