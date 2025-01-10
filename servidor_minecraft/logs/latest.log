@@ -4338,3 +4338,44 @@ Caused by: java.io.IOException: Invalid tag id: 14
 [10Jan2025 02:14:29.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: V_Recs was shot by Skeleton
 [10Jan2025 02:15:27.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Jorgerap> e
 [10Jan2025 02:15:28.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Jorgerap> sans
+[10Jan2025 02:18:50.928] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elsebass lost connection: Disconnected
+[10Jan2025 02:18:50.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elsebass left the game
+[10Jan2025 02:18:50.929] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 5d15a53b-aae9-36ee-b24b-7883ed1c013f
+[10Jan2025 02:19:37.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgerap drowned
+[10Jan2025 02:19:44.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Jorgerap> lmao
+[10Jan2025 02:20:37.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jorgerap: Teleported Jorgerap to 11.500000, 34.000000, -71.500000]
+[10Jan2025 02:21:05.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgerap drowned
+[10Jan2025 02:22:06.730] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: V_Recs lost connection: Disconnected
+[10Jan2025 02:22:06.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: V_Recs left the game
+[10Jan2025 02:22:06.731] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for f1f166f1-8fe7-3af7-8d67-846681c95004
+[10Jan2025 02:22:47.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jorgerap: Teleported Jorgerap to 11.500000, 34.000000, -71.500000]
+[10Jan2025 02:23:18.673] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jorgerap lost connection: Disconnected
+[10Jan2025 02:23:18.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgerap left the game
+[10Jan2025 02:23:18.673] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for e1ad1fa3-67f1-363d-8340-ce7cb4c86d00
+[10Jan2025 02:23:22.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[10Jan2025 02:23:22.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[10Jan2025 02:23:22.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[10Jan2025 02:23:22.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[10Jan2025 02:23:22.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[10Jan2025 02:23:23.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[10Jan2025 02:23:23.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[10Jan2025 02:23:23.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[10Jan2025 02:23:23.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[10Jan2025 02:23:23.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everbright
+[10Jan2025 02:23:23.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everdawn
+[10Jan2025 02:23:23.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[10Jan2025 02:23:24.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10Jan2025 02:23:24.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10Jan2025 02:23:24.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[10Jan2025 02:23:24.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10Jan2025 02:23:24.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[10Jan2025 02:23:24.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
+[10Jan2025 02:23:24.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
+[10Jan2025 02:23:24.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[10Jan2025 02:23:24.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[10Jan2025 02:23:24.226] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopping IO worker...
+[10Jan2025 02:23:24.227] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopped IO worker!
+[10Jan2025 02:23:24.230] [Server thread/INFO] [Framework/]: Unloading server configs...
+[10Jan2025 02:23:24.232] [Server thread/INFO] [Framework/]: Sending config unload event for backpacked.server.toml
+[10Jan2025 02:23:24.233] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[10Jan2025 02:23:24.233] [Server thread/INFO] [Framework/]: Finished unloading server configs

@@ -67,6 +67,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:lush_caves": "2025-01-10 02:13:15 +0000",
       "minecraft:jungle": "2025-01-06 17:21:15 +0000"
     },
     "done": false
@@ -128,6 +129,18 @@
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_logs": "2025-01-06 17:22:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-10 02:13:50 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_tuff_bricks_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-01-10 02:16:12 +0000"
     },
     "done": true
   },
@@ -341,6 +354,12 @@
     },
     "done": true
   },
+  "twigs:recipes/tuff/tuff_slab_stonecutting": {
+    "criteria": {
+      "has_item": "2025-01-10 02:16:12 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/rubeus_chair": {
     "criteria": {
       "has_stick": "2025-01-10 01:29:11 +0000"
@@ -401,6 +420,18 @@
     },
     "done": true
   },
+  "twigs:recipes/tuff/tuff_wall": {
+    "criteria": {
+      "has_item": "2025-01-10 02:16:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-10 02:13:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-01-10 01:29:05 +0000"
@@ -458,6 +489,12 @@
   "minecraft:recipes/redstone/jungle_trapdoor": {
     "criteria": {
       "has_planks": "2025-01-10 01:29:04 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tuff/polished_tuff": {
+    "criteria": {
+      "has_item": "2025-01-10 02:16:12 +0000"
     },
     "done": true
   },
@@ -563,6 +600,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/tuff_tile_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-01-10 02:16:12 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_green": {
     "criteria": {
       "has_stick": "2025-01-10 01:29:11 +0000"
@@ -635,6 +678,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/tuff_shingle_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-01-10 02:16:12 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/wolf_trophy": {
     "criteria": {
       "has_wolf_trophy": "2025-01-10 01:29:04 +0000"
@@ -662,6 +711,12 @@
   "twigs:recipes/tables/jungle_table": {
     "criteria": {
       "has_jungle": "2025-01-10 01:29:04 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_tuff_brick_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-01-10 02:16:12 +0000"
     },
     "done": true
   },
@@ -713,6 +768,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_tuff_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-01-10 02:16:12 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/tenanea_bar_stool": {
     "criteria": {
       "has_stick": "2025-01-10 01:29:11 +0000"
@@ -734,6 +795,12 @@
   "handcrafted:recipes/misc/jungle_table": {
     "criteria": {
       "has_jungle_table": "2025-01-10 01:29:04 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/tuff_plates_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-01-10 02:16:12 +0000"
     },
     "done": true
   },
@@ -809,9 +876,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-10 02:13:50 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_andesite_brick_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-01-10 01:54:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-10 02:13:50 +0000"
     },
     "done": true
   },
@@ -848,6 +927,12 @@
   "biomesoplenty:recipes/transportation/redwood_boat": {
     "criteria": {
       "in_water": "2025-01-10 01:40:35 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/tuff_paver_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-01-10 02:16:12 +0000"
     },
     "done": true
   },
@@ -947,6 +1032,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-10 02:13:50 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/diorite_pillar_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-01-10 01:54:28 +0000"
@@ -989,6 +1080,12 @@
     },
     "done": true
   },
+  "twigs:recipes/tuff/polished_tuff_stonecutting": {
+    "criteria": {
+      "has_item": "2025-01-10 02:16:12 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/nether_sakura_sign": {
     "criteria": {
       "has_stick": "2025-01-10 01:29:11 +0000"
@@ -998,6 +1095,12 @@
   "stoneworks:recipes/building_blocks/cobbled_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-01-10 01:42:25 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/tuff_plate_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-01-10 02:16:12 +0000"
     },
     "done": true
   },
@@ -1055,6 +1158,12 @@
     },
     "done": true
   },
+  "twigs:recipes/tuff/tuff_stairs": {
+    "criteria": {
+      "has_item": "2025-01-10 02:16:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-01-10 02:12:30 +0000"
@@ -1067,11 +1176,29 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-10 02:13:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2025-01-10 01:32:48 +0000"
     },
     "done": false
+  },
+  "supplementaries:recipes/daub": {
+    "criteria": {
+      "has_clay_ball": "2025-01-10 02:13:47 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_tuff_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-01-10 02:16:12 +0000"
+    },
+    "done": true
   },
   "betterend:recipes/decorations/tenanea_ladder": {
     "criteria": {
@@ -1130,6 +1257,12 @@
   "betternether:recipes/decorations/crimson_ladder": {
     "criteria": {
       "has_stick": "2025-01-10 01:29:11 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_tuff_brick_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-01-10 02:16:12 +0000"
     },
     "done": true
   },
@@ -1265,6 +1398,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-10 02:13:50 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/dark_oak_drawer": {
     "criteria": {
       "has_planks": "2025-01-10 01:29:11 +0000"
@@ -1280,6 +1419,12 @@
   "shieldexp:recipes/iron_shield": {
     "criteria": {
       "has_iron_ingot": "2025-01-10 02:12:30 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tuff/tuff_stairs_stonecutting": {
+    "criteria": {
+      "has_item": "2025-01-10 02:16:12 +0000"
     },
     "done": true
   },
@@ -1310,6 +1455,12 @@
   "stoneworks:recipes/building_blocks/diorite_paver_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-01-10 01:54:28 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tuff/tuff_wall_stonecutting": {
+    "criteria": {
+      "has_item": "2025-01-10 02:16:12 +0000"
     },
     "done": true
   },
@@ -1433,9 +1584,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-10 02:13:50 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_dining_bench": {
     "criteria": {
       "has_oak_dining_bench": "2025-01-10 01:29:05 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_tuff_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-01-10 02:16:12 +0000"
     },
     "done": true
   },
@@ -1517,6 +1680,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-10 02:13:50 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/end_lotus_sign": {
     "criteria": {
       "has_stick": "2025-01-10 01:29:11 +0000"
@@ -1544,6 +1713,12 @@
   "betterend:recipes/decorations/lucernia_ladder": {
     "criteria": {
       "has_stick": "2025-01-10 01:29:11 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/tuff_plate_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-01-10 02:16:12 +0000"
     },
     "done": true
   },
@@ -1589,6 +1764,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/tuff_shingle_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-01-10 02:16:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-01-10 02:12:30 +0000"
@@ -1604,6 +1785,18 @@
   "betternether:recipes/decorations/mangrove_chair": {
     "criteria": {
       "has_stick": "2025-01-10 01:29:11 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_tuff_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-01-10 02:16:12 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_tuff_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-01-10 02:16:12 +0000"
     },
     "done": true
   },
@@ -1673,6 +1866,18 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/tuff_paver_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-01-10 02:16:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-10 02:13:50 +0000"
+    },
+    "done": true
+  },
   "aether_redux:recipes/transportation/blightwillow_boat": {
     "criteria": {
       "in_water": "2025-01-10 01:40:35 +0000"
@@ -1739,6 +1944,12 @@
     },
     "done": true
   },
+  "twigs:recipes/tuff/polished_tuff_bricks_from_bloodstone_stonecutting": {
+    "criteria": {
+      "has_item": "2025-01-10 02:16:12 +0000"
+    },
+    "done": true
+  },
   "hearth_and_home:recipes/oak_sanded_wood": {
     "criteria": {
       "has_item": "2025-01-10 01:29:05 +0000"
@@ -1748,6 +1959,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2025-01-10 01:40:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-10 02:13:50 +0000"
     },
     "done": true
   },
@@ -1772,6 +1989,12 @@
   "handcrafted:recipes/misc/tropical_fish_trophy": {
     "criteria": {
       "has_tropical_fish_trophy": "2025-01-10 01:29:04 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/tuff_tiles_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-01-10 02:16:12 +0000"
     },
     "done": true
   },
@@ -1826,6 +2049,12 @@
   "betterend:recipes/misc/thallasium_sword_handle": {
     "criteria": {
       "has_item.minecraft.stick": "2025-01-10 01:29:11 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_tuff_bricks_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-01-10 02:16:12 +0000"
     },
     "done": true
   },
@@ -1886,6 +2115,12 @@
   "betternether:recipes/decorations/nether_sakura_taburet": {
     "criteria": {
       "has_stick": "2025-01-10 01:29:11 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/tuff_shingles_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-01-10 02:16:12 +0000"
     },
     "done": true
   },
@@ -1973,6 +2208,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/tuff_bricks_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-01-10 02:16:12 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/pulley": {
     "criteria": {
       "minecraft:planks": "2025-01-10 01:29:04 +0000"
@@ -2006,6 +2247,12 @@
   "farmersdelight:recipes/decorations/cutting_board": {
     "criteria": {
       "has_stick": "2025-01-10 01:29:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-10 02:13:50 +0000"
     },
     "done": true
   },
@@ -2201,9 +2448,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-01-10 02:13:47 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/anchor_tree_sign": {
     "criteria": {
       "has_stick": "2025-01-10 01:29:11 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/tuff_tile_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-01-10 02:16:12 +0000"
     },
     "done": true
   },
@@ -2366,6 +2625,30 @@
   "betterend:recipes/decorations/end_lotus_taburet": {
     "criteria": {
       "has_stick": "2025-01-10 01:29:11 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_tuff_brick_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-01-10 02:16:12 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_tuff_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-01-10 02:16:12 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_tuff_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-01-10 02:16:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-01-10 02:13:47 +0000"
     },
     "done": true
   },
@@ -2555,6 +2838,12 @@
     },
     "done": true
   },
+  "twigs:recipes/tuff/tuff_slab": {
+    "criteria": {
+      "has_item": "2025-01-10 02:16:12 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/iron_chandelier": {
     "criteria": {
       "has_iron_ingot": "2025-01-10 02:12:30 +0000"
@@ -2582,6 +2871,12 @@
   "stoneworks:recipes/building_blocks/andesite_plate_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-01-10 01:54:16 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/tuff_tile_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-01-10 02:16:12 +0000"
     },
     "done": true
   },
@@ -2645,9 +2940,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/tuff_paver_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-01-10 02:16:12 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/decorations/sign_post_jungle": {
     "criteria": {
       "has_planks": "2025-01-10 01:29:04 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/tuff_pillar_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-01-10 02:16:12 +0000"
     },
     "done": true
   },
@@ -2681,6 +2988,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cobbled_tuff_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-01-10 02:16:12 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/maple_boat": {
     "criteria": {
       "in_water": "2025-01-10 01:40:35 +0000"
@@ -2690,6 +3003,12 @@
   "betternether:recipes/decorations/wart_taburet": {
     "criteria": {
       "has_stick": "2025-01-10 01:29:11 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/tuff_pavers_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-01-10 02:16:12 +0000"
     },
     "done": true
   },
@@ -2720,6 +3039,12 @@
   "betterend:recipes/misc/copy_handle_attachment": {
     "criteria": {
       "has_stick": "2025-01-10 01:29:11 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_tuff_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-01-10 02:16:12 +0000"
     },
     "done": true
   },
@@ -2816,6 +3141,12 @@
   "betternether:recipes/decorations/acacia_bar_stool": {
     "criteria": {
       "has_stick": "2025-01-10 01:29:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-10 02:13:50 +0000"
     },
     "done": true
   },
@@ -3059,9 +3390,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-10 02:13:50 +0000"
+    },
+    "done": true
+  },
   "bclib:recipes/tools/tag_compass": {
     "criteria": {
       "has_tag_c_iron_ingots": "2025-01-10 02:12:30 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/tuff_plate_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-01-10 02:16:12 +0000"
     },
     "done": true
   },
@@ -3185,6 +3528,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_tuff_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-01-10 02:16:12 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/building_blocks/jungle_support": {
     "criteria": {
       "has_plank": "2025-01-10 01:29:04 +0000"
@@ -3260,6 +3609,12 @@
   "stoneworks:recipes/building_blocks/granite_plate_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-01-10 01:42:25 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/tuff_shingle_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-01-10 02:16:12 +0000"
     },
     "done": true
   },
@@ -3341,6 +3696,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-10 02:13:50 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/chiseled_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-01-10 01:54:28 +0000"
@@ -3359,6 +3720,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-10 02:13:50 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/spruce_drawer": {
     "criteria": {
       "has_planks": "2025-01-10 01:29:11 +0000"
@@ -3374,6 +3741,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2025-01-10 01:42:25 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/chiseled_tuff_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-01-10 02:16:12 +0000"
     },
     "done": true
   },
@@ -3398,6 +3771,12 @@
   "stoneworks:recipes/building_blocks/granite_bricks_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-01-10 01:42:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-10 02:13:50 +0000"
     },
     "done": true
   },
@@ -3485,6 +3864,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cracked_tuff_tiles_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-01-10 02:16:12 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/andesite_tile_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-01-10 01:54:16 +0000"
@@ -3554,6 +3939,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-01-10 01:41:10 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/tuff_brick_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-01-10 02:16:12 +0000"
     },
     "done": true
   },
@@ -3701,6 +4092,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cobbled_tuff_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-01-10 02:16:12 +0000"
+    },
+    "done": true
+  },
   "aether_redux:recipes/transportation/crystal_boat": {
     "criteria": {
       "in_water": "2025-01-10 01:40:35 +0000"
@@ -3710,6 +4107,18 @@
   "stoneworks:recipes/building_blocks/andesite_shingles_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-01-10 01:54:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-10 02:13:50 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/tuff_brick_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-01-10 02:16:12 +0000"
     },
     "done": true
   },
@@ -3752,6 +4161,12 @@
   "betternether:recipes/decorations/warped_bar_stool": {
     "criteria": {
       "has_stick": "2025-01-10 01:29:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-10 02:13:50 +0000"
     },
     "done": true
   },
@@ -3833,6 +4248,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-10 02:13:50 +0000"
+    },
+    "done": true
+  },
   "hearth_and_home:recipes/sanded_wood": {
     "criteria": {
       "has_item": "2025-01-10 01:29:04 +0000"
@@ -3899,6 +4320,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-10 02:13:50 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/mahogany_boat": {
     "criteria": {
       "in_water": "2025-01-10 01:40:35 +0000"
@@ -3923,6 +4350,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/polished_tuff_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-01-10 02:16:12 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/wart_chair": {
     "criteria": {
       "has_stick": "2025-01-10 01:29:11 +0000"
@@ -3932,6 +4365,12 @@
   "aether_redux:recipes/transportation/jellyshroom_boat": {
     "criteria": {
       "in_water": "2025-01-10 01:40:35 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/tuff_brick_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-01-10 02:16:12 +0000"
     },
     "done": true
   },
