@@ -3868,3 +3868,250 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [10Jan2025 00:34:52.720] [Server thread/INFO] [ping-wheel/]: Channel update: V_Recs -> default
 [10Jan2025 00:34:52.724] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
 [10Jan2025 00:34:52.767] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12103ms or 242 ticks behind
+[10Jan2025 00:36:14.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[10Jan2025 00:36:14.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: e<--[HERE]
+[10Jan2025 00:36:18.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Server] 3
+[10Jan2025 00:36:26.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Server] es lag
+[10Jan2025 00:36:34.332] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=16, y=79, z=-1}
+[10Jan2025 00:36:34.489] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=16, y=79, z=-1}
+[10Jan2025 00:36:34.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Server] despues se desbugea
+[10Jan2025 00:36:37.586] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=15, y=78, z=-2}
+[10Jan2025 00:36:37.632] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=15, y=78, z=-2}
+[10Jan2025 00:36:37.734] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=15, y=79, z=-1}
+[10Jan2025 00:36:37.833] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=15, y=78, z=-2}
+[10Jan2025 00:36:37.990] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=15, y=78, z=-2}
+[10Jan2025 00:36:38.081] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=15, y=79, z=-1}
+[10Jan2025 00:36:38.340] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=15, y=79, z=-1}
+[10Jan2025 00:36:38.482] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=15, y=79, z=-1}
+[10Jan2025 00:36:38.987] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=16, y=78, z=-2}
+[10Jan2025 00:36:39.046] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=16, y=78, z=-2}
+[10Jan2025 00:36:41.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Server] xddddd
+[10Jan2025 00:36:43.183] [Worker-Main-16/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Starting feature recycler...
+[10Jan2025 00:36:43.408] [Worker-Main-16/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Finished recycling features. Took 225ms
+[10Jan2025 00:36:44.549] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=78, z=-2} BlockPos{x=15, y=79, z=-1}
+[10Jan2025 00:36:44.798] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=78, z=-2} BlockPos{x=15, y=79, z=-1}
+[10Jan2025 00:36:45.053] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=78, z=-2} BlockPos{x=15, y=79, z=-1}
+[10Jan2025 00:36:45.289] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=78, z=-2} BlockPos{x=15, y=79, z=-1}
+[10Jan2025 00:36:45.493] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=78, z=-2} BlockPos{x=15, y=79, z=-1}
+[10Jan2025 00:36:45.604] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=78, z=-2} BlockPos{x=16, y=79, z=-1}
+[10Jan2025 00:36:45.660] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=78, z=-2} BlockPos{x=16, y=79, z=-1}
+[10Jan2025 00:36:45.841] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=78, z=-2} BlockPos{x=15, y=79, z=-1}
+[10Jan2025 00:36:46.131] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=78, z=-2} BlockPos{x=15, y=79, z=-1}
+[10Jan2025 00:36:46.333] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=78, z=-2} BlockPos{x=15, y=79, z=-1}
+[10Jan2025 00:36:46.582] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=78, z=-2} BlockPos{x=15, y=79, z=-1}
+[10Jan2025 00:36:46.839] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=78, z=-2} BlockPos{x=15, y=79, z=-1}
+[10Jan2025 00:36:47.389] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=78, z=-2} BlockPos{x=14, y=79, z=-2}
+[10Jan2025 00:36:47.499] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=78, z=-2} BlockPos{x=15, y=78, z=-2}
+[10Jan2025 00:36:47.748] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=78, z=-2} BlockPos{x=15, y=78, z=-2}
+[10Jan2025 00:36:47.890] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=78, z=-2} BlockPos{x=15, y=78, z=-2}
+[10Jan2025 00:36:47.934] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=78, z=-2} BlockPos{x=15, y=79, z=-1}
+[10Jan2025 00:36:48.035] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=78, z=-2} BlockPos{x=16, y=79, z=-1}
+[10Jan2025 00:36:48.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Server] dale un segundo carajo
+[10Jan2025 00:36:50.035] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18, y=78, z=-2} BlockPos{x=15, y=78, z=-2}
+[10Jan2025 00:36:50.140] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18, y=78, z=-2} BlockPos{x=15, y=78, z=-2}
+[10Jan2025 00:36:54.381] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=78, z=-2} BlockPos{x=15, y=78, z=-2}
+[10Jan2025 00:36:54.726] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=78, z=-2} BlockPos{x=15, y=78, z=-2}
+[10Jan2025 00:36:55.083] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=78, z=-2} BlockPos{x=15, y=78, z=-2}
+[10Jan2025 00:36:55.382] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=78, z=-2} BlockPos{x=15, y=78, z=-2}
+[10Jan2025 00:36:55.485] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=78, z=-2} BlockPos{x=15, y=78, z=-2}
+[10Jan2025 00:36:55.647] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=78, z=-2} BlockPos{x=15, y=78, z=-2}
+[10Jan2025 00:36:57.389] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=78, z=-2} BlockPos{x=15, y=78, z=-2}
+[10Jan2025 00:36:57.433] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=78, z=-2} BlockPos{x=15, y=78, z=-2}
+[10Jan2025 00:36:57.647] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=78, z=-2} BlockPos{x=15, y=78, z=-2}
+[10Jan2025 00:36:57.931] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=78, z=-2} BlockPos{x=15, y=78, z=-2}
+[10Jan2025 00:36:58.238] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=78, z=-2} BlockPos{x=15, y=78, z=-2}
+[10Jan2025 00:36:58.283] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=78, z=-2} BlockPos{x=15, y=78, z=-2}
+[10Jan2025 00:36:58.475] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=78, z=-2} BlockPos{x=15, y=78, z=-2}
+[10Jan2025 00:37:02.730] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=19, y=81, z=-1} BlockPos{x=14, y=79, z=-2}
+[10Jan2025 00:37:02.785] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=19, y=81, z=-1} BlockPos{x=14, y=79, z=-2}
+[10Jan2025 00:37:02.930] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=19, y=81, z=-1} BlockPos{x=14, y=79, z=-2}
+[10Jan2025 00:37:03.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Server] tendra safe spawn
+[10Jan2025 00:37:03.135] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=19, y=81, z=-1} BlockPos{x=15, y=78, z=-2}
+[10Jan2025 00:37:03.440] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=19, y=81, z=-1} BlockPos{x=15, y=78, z=-2}
+[10Jan2025 00:37:03.484] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=19, y=81, z=-1} BlockPos{x=15, y=78, z=-2}
+[10Jan2025 00:37:03.632] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=19, y=81, z=-1} BlockPos{x=15, y=78, z=-2}
+[10Jan2025 00:37:04.127] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=19, y=81, z=-1} BlockPos{x=15, y=78, z=-2}
+[10Jan2025 00:37:04.430] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=19, y=81, z=-1} BlockPos{x=15, y=78, z=-2}
+[10Jan2025 00:37:09.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Server] pero de picarcoño
+[10Jan2025 00:37:19.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Server] me llenas la consola de warns
+[10Jan2025 00:37:23.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Server] por esa mierda
+[10Jan2025 00:37:28.223] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=19, y=81, z=-1} BlockPos{x=13, y=83, z=-12}
+[10Jan2025 00:37:28.286] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=19, y=81, z=-1} BlockPos{x=13, y=83, z=-11}
+[10Jan2025 00:37:34.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Server] trol
+[10Jan2025 00:37:37.888] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=20, y=79, z=-4} BlockPos{x=15, y=78, z=-2}
+[10Jan2025 00:37:38.138] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=20, y=79, z=-4} BlockPos{x=15, y=78, z=-2}
+[10Jan2025 00:37:38.387] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=20, y=79, z=-4} BlockPos{x=15, y=78, z=-2}
+[10Jan2025 00:37:38.635] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=20, y=79, z=-4} BlockPos{x=15, y=78, z=-2}
+[10Jan2025 00:37:56.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /advancement (grant|revoke)
+[10Jan2025 00:37:56.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /attribute <target> <attribute> (get|base|modifier)
+[10Jan2025 00:37:56.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in|summon|on)
+[10Jan2025 00:37:56.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /bossbar (add|remove|list|set|get)
+[10Jan2025 00:37:56.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /clear [<targets>]
+[10Jan2025 00:37:56.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /clone (<begin>|from)
+[10Jan2025 00:37:56.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /damage <target> <amount> [<damageType>]
+[10Jan2025 00:37:56.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /data (merge|get|remove|modify)
+[10Jan2025 00:37:56.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /datapack (enable|disable|list)
+[10Jan2025 00:37:56.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /debug (start|stop|function)
+[10Jan2025 00:37:56.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /defaultgamemode <gamemode>
+[10Jan2025 00:37:56.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /difficulty [peaceful|easy|normal|hard]
+[10Jan2025 00:37:56.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /effect (clear|give)
+[10Jan2025 00:37:56.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /me <action>
+[10Jan2025 00:37:56.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /enchant <targets> <enchantment> [<level>]
+[10Jan2025 00:37:56.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /experience (add|set|query)
+[10Jan2025 00:37:56.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /xp -> experience
+[10Jan2025 00:37:56.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
+[10Jan2025 00:37:56.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /fillbiome <from> <to> <biome> [replace]
+[10Jan2025 00:37:56.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /forceload (add|remove|query)
+[10Jan2025 00:37:56.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /function <name>
+[10Jan2025 00:37:56.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /gamemode <gamemode> [<target>]
+[10Jan2025 00:37:56.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /gamerule (announceAdvancements|blockExplosionDropDecay|commandBlockOutput|commandModificationBlockLimit|decorative_blocks:disableThatch|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doSeasonCycle|doTileDrops|doTraderSpawning|doVinesSpread|doWardenSpawning|doWeatherCycle|drowningDamage|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|globalSoundEvents|keepInventory|lavaSourceConversion|logAdminCommands|maxCommandChainLength|maxEntityCramming|mediumcoreMode|mobExplosionDropDecay|mobGriefing|naturalRegeneration|playersSleepingPercentage|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|snowAccumulationHeight|snowrealmagic:blizzardFrequency|snowrealmagic:blizzardStrength|spawnRadius|spectatorsGenerateChunks|tfEnforcedProgression|tntExplosionDropDecay|universalAnger|waterSourceConversion)
+[10Jan2025 00:37:56.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /give <targets> <item> [<count>]
+[10Jan2025 00:37:56.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /help [<command>]
+[10Jan2025 00:37:56.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /item (replace|modify)
+[10Jan2025 00:37:56.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /kick <targets> [<reason>]
+[10Jan2025 00:37:56.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /kill [<targets>]
+[10Jan2025 00:37:56.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /list [uuids]
+[10Jan2025 00:37:56.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /locate (structure|biome|poi)
+[10Jan2025 00:37:56.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /loot (replace|insert|give|spawn)
+[10Jan2025 00:37:56.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /msg <targets> <message>
+[10Jan2025 00:37:56.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tell -> msg
+[10Jan2025 00:37:56.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /w -> msg
+[10Jan2025 00:37:56.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /particle <name> [<pos>]
+[10Jan2025 00:37:57.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /place (feature|jigsaw|structure|template)
+[10Jan2025 00:37:57.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /playsound <sound> (master|music|record|weather|block|hostile|neutral|player|ambient|voice)
+[10Jan2025 00:37:57.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /reload
+[10Jan2025 00:37:57.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /recipe (give|take)
+[10Jan2025 00:37:57.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /return <value>
+[10Jan2025 00:37:57.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ride <target> (mount|dismount)
+[10Jan2025 00:37:57.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /say <message>
+[10Jan2025 00:37:57.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /schedule (function|clear)
+[10Jan2025 00:37:57.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /scoreboard (objectives|players)
+[10Jan2025 00:37:57.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /seed
+[10Jan2025 00:37:57.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setblock <pos> <block> [destroy|keep|replace]
+[10Jan2025 00:37:57.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spawnpoint [<targets>]
+[10Jan2025 00:37:57.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setworldspawn [<pos>]
+[10Jan2025 00:37:57.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spectate [<target>]
+[10Jan2025 00:37:57.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
+[10Jan2025 00:37:57.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
+[10Jan2025 00:37:57.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /summon <entity> [<pos>]
+[10Jan2025 00:37:57.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tag <targets> (add|remove|list)
+[10Jan2025 00:37:57.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /team (list|add|remove|empty|join|leave|modify)
+[10Jan2025 00:37:57.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /teammsg <message>
+[10Jan2025 00:37:57.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tm -> teammsg
+[10Jan2025 00:37:57.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /teleport (<location>|<destination>|<targets>)
+[10Jan2025 00:37:57.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tp -> teleport
+[10Jan2025 00:37:57.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tellraw <targets> <message>
+[10Jan2025 00:37:57.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /time (set|add|query)
+[10Jan2025 00:37:57.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
+[10Jan2025 00:37:57.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /trigger <objective> [add|set]
+[10Jan2025 00:37:57.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /weather (clear|rain|thunder)
+[10Jan2025 00:37:57.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /worldborder (add|set|center|damage|get|warning)
+[10Jan2025 00:37:57.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /jfr (start|stop)
+[10Jan2025 00:37:57.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ban-ip <target> [<reason>]
+[10Jan2025 00:37:57.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /banlist [ips|players]
+[10Jan2025 00:37:57.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ban <targets> [<reason>]
+[10Jan2025 00:37:57.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /deop <targets>
+[10Jan2025 00:37:57.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /op <targets>
+[10Jan2025 00:37:57.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /pardon <targets>
+[10Jan2025 00:37:57.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /pardon-ip <target>
+[10Jan2025 00:37:57.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /perf (start|stop)
+[10Jan2025 00:37:57.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-all [flush]
+[10Jan2025 00:37:57.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-off
+[10Jan2025 00:37:57.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-on
+[10Jan2025 00:37:57.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setidletimeout <minutes>
+[10Jan2025 00:37:57.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /stop
+[10Jan2025 00:37:57.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /whitelist (on|off|list|add|remove|reload)
+[10Jan2025 00:37:57.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ftblibrary (gamemode|rain|day|night|nbtedit|generate_loot_tables)
+[10Jan2025 00:37:57.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ftbteams (party|server|msg|info|list|force-disband)
+[10Jan2025 00:37:57.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ftbquests (editing_mode|locked|delete_empty_reward_tables|change_progress|export_reward_table_to_chest|import_reward_table_from_chest|generate_chapter_with_all_items_in_game|reload|block_rewards|open_book|clear_item_display_cache)
+[10Jan2025 00:37:57.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /villagerInfo
+[10Jan2025 00:37:57.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /villagerinfo
+[10Jan2025 00:37:57.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /vi
+[10Jan2025 00:37:57.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /villagerReset
+[10Jan2025 00:37:57.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /villagerreset
+[10Jan2025 00:37:57.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /vr
+[10Jan2025 00:37:57.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /villagerSetPOI
+[10Jan2025 00:37:57.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /villagersetpoi
+[10Jan2025 00:37:57.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /vsp
+[10Jan2025 00:37:57.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /villagerStats
+[10Jan2025 00:37:57.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /villagerstats
+[10Jan2025 00:37:57.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /vs
+[10Jan2025 00:37:57.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /openpac-parties about [<profile>]
+[10Jan2025 00:37:57.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /openpac-claims (claim|unclaim|forceload|unforceload|non-ally-mode|about|server-claim-mode|sub-claim|server|admin-mode)
+[10Jan2025 00:37:57.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /openpac (player-config|server-claims-config|expired-claims-config|wilderness-config)
+[10Jan2025 00:37:57.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /modernfix upgradeStructures
+[10Jan2025 00:37:57.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /mfsrc
+[10Jan2025 00:37:57.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /bn (place|test_place|find_surface|tpnext|place_all|place_matching)
+[10Jan2025 00:37:57.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /be (locate_portal|locate_portal_frame|tpnext)
+[10Jan2025 00:37:57.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /bclib (place|print|dump_datapack|request_garbage_collection|debug_ore|sliceZ|sliceX)
+[10Jan2025 00:37:57.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /end_island reset [<forceNewPortalPos>]
+[10Jan2025 00:37:57.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /sandstorm (start|stop)
+[10Jan2025 00:37:57.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /structure_gel (savestructures|getspawns|getstructures|getbiomes|viewbounds|building_tool|distance|getfeatures)
+[10Jan2025 00:37:57.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /curios (list|replace|set|add|remove|clear|drop|reset)
+[10Jan2025 00:37:57.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /flib (help|debug|tpx|health|hunger|hearts|scoreboard|gamemode|attribute)
+[10Jan2025 00:37:57.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /fallingtree toggle
+[10Jan2025 00:37:57.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /kambrik (dump|test)
+[10Jan2025 00:37:57.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /season (set|get|time)
+[10Jan2025 00:37:57.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /forge (tps|track|entity|generate|dimensions|mods|tags)
+[10Jan2025 00:37:57.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /config showfile <mod> <type>
+[10Jan2025 00:37:57.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /resiner
+[10Jan2025 00:37:57.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /killcreaking
+[10Jan2025 00:37:57.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /blue_skies (refresh_supporters|set_progression|weather|set_lore_used|get_mob_caps|loot_bag)
+[10Jan2025 00:37:57.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /connectivity (packetsSummary|packetsAllPlayers|packetsPlayer|packetsClient|printpacket)
+[10Jan2025 00:37:57.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /structureessentials (getBiomeTags|getBiomesForTag|getStructuresNearby|getSimilarForBiome)
+[10Jan2025 00:37:57.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /aether (time|eternal_day|player|sun_altar_whitelist)
+[10Jan2025 00:37:57.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /kiwi (debug_rules|reload|eval)
+[10Jan2025 00:37:57.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /bookshelf (font|hand)
+[10Jan2025 00:37:57.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /carryon (debug|clear|place)
+[10Jan2025 00:37:57.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /twilightforest [center|conquer|genbook|info|biomepng|shield]
+[10Jan2025 00:37:57.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tf -> twilightforest
+[10Jan2025 00:37:57.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tffeature -> twilightforest
+[10Jan2025 00:37:57.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /bo (hand|gen|util)
+[10Jan2025 00:37:57.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /modpack (version|show)
+[10Jan2025 00:37:57.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /pingwheel:server [help|default_channel|player_tracking|regen_time|rate_limit]
+[10Jan2025 00:37:57.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /alternatecurrent [on|off]
+[10Jan2025 00:37:57.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /jade (show|hide)
+[10Jan2025 00:37:57.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /coro config common (reload|save|get|set)
+[10Jan2025 00:37:57.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /supplementaries (globe|registry|reload|configs|roll|cage|record|dimension|map)
+[10Jan2025 00:37:57.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /supp -> supplementaries
+[10Jan2025 00:37:57.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /deathhistory (<player>|<player_uuid>)
+[10Jan2025 00:37:57.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /polymorph conflicts
+[10Jan2025 00:37:57.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /open-patchouli-book <targets> <book> [<entry>]
+[10Jan2025 00:37:57.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /villagernames [unname|name|rename]
+[10Jan2025 00:37:57.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spark [<args>]
+[10Jan2025 00:37:57.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /unlockbackpack <backpack>
+[10Jan2025 00:38:08.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: V_Recs has made the advancement [Monster Hunter]
+[10Jan2025 00:38:16.027] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=31, y=81, z=-8} BlockPos{x=-3, y=80, z=0}
+[10Jan2025 00:38:16.694] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=31, y=81, z=-8} BlockPos{x=-4, y=80, z=1}
+[10Jan2025 00:38:16.781] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=31, y=81, z=-8} BlockPos{x=-4, y=80, z=1}
+[10Jan2025 00:38:16.789] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=31, y=81, z=-8} BlockPos{x=-4, y=80, z=0}
+[10Jan2025 00:38:17.837] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=31, y=81, z=-8} BlockPos{x=-2, y=80, z=0}
+[10Jan2025 00:38:18.084] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=31, y=81, z=-8} BlockPos{x=-2, y=80, z=0}
+[10Jan2025 00:38:18.336] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=31, y=81, z=-8} BlockPos{x=-2, y=80, z=0}
+[10Jan2025 00:38:18.589] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=31, y=81, z=-8} BlockPos{x=-2, y=80, z=0}
+[10Jan2025 00:38:18.630] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=31, y=81, z=-8} BlockPos{x=-2, y=80, z=0}
+[10Jan2025 00:38:22.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The difficulty did not change; it is already set to normal
+[10Jan2025 00:38:34.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
+[10Jan2025 00:39:04.188] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-21, y=77, z=-1} BlockPos{x=11, y=80, z=6}
+[10Jan2025 00:39:06.329] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-21, y=77, z=-1} BlockPos{x=11, y=79, z=6}
+[10Jan2025 00:39:06.387] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-21, y=77, z=-1} BlockPos{x=11, y=79, z=6}
+[10Jan2025 00:39:06.635] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-21, y=77, z=-1} BlockPos{x=11, y=79, z=5}
+[10Jan2025 00:39:12.374] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-21, y=77, z=-1} BlockPos{x=10, y=80, z=7}
+[10Jan2025 00:39:17.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Server] troleada
+[10Jan2025 00:39:25.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Server] ahi despues resuelvo
+[10Jan2025 00:39:29.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[10Jan2025 00:39:29.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sayb lo del safespawn<--[HERE]
+[10Jan2025 00:39:40.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Server] lo del safespawn
+[10Jan2025 00:39:45.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Server] no
+[10Jan2025 00:39:49.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Server] no hay plugin
+[10Jan2025 00:39:51.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Server] de eso
+[10Jan2025 00:39:56.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Server] tala normal
+[10Jan2025 00:39:59.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Server] vago
+[10Jan2025 00:40:22.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Server] despues le añado el plugin y q vaya a 256 ticks por segundo
+[10Jan2025 00:40:46.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Server] ya
+[10Jan2025 00:40:55.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: V_Recs has made the advancement [Gone Bananas!]
+[10Jan2025 00:41:01.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Server] banana
+[10Jan2025 00:41:18.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Server] c eror
+[10Jan2025 00:41:40.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Server] en el inventario
+[10Jan2025 00:41:46.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Server] una una cosa a tu izzuiqerda
+[10Jan2025 00:41:49.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Server] de missiones
