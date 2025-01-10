@@ -4240,3 +4240,101 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [10Jan2025 02:04:10.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: V_Recs fell from a high place
 [10Jan2025 02:04:55.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jorgerap: Teleported V_Recs to Elsebass]
 [10Jan2025 02:05:50.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Jorgerap> t
+[10Jan2025 02:10:22.052] [Server thread/ERROR] [ModernFix/]: Couldn't upgrade structure mvs:structures/cathedral/special/dead_end_1.nbt
+net.minecraft.ReportedException: Loading NBT data
+	at net.minecraft.nbt.CompoundTag.m_128413_(CompoundTag.java:480) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	at net.minecraft.nbt.CompoundTag$Anonymous$1ca4400899784f978f492e4d99117306.load(MixinCompoundTag.java:65) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	at net.minecraft.nbt.CompoundTag$Anonymous$1ca4400899784f978f492e4d99117306.m_7300_(MixinCompoundTag.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	at net.minecraft.nbt.ListTag$Anonymous$4318cedf899e49b598766534f49cd167.load(MixinListTag.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	at net.minecraft.nbt.ListTag$Anonymous$4318cedf899e49b598766534f49cd167.m_7300_(MixinListTag.java:40) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	at net.minecraft.nbt.CompoundTag.m_128413_(CompoundTag.java:474) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	at net.minecraft.nbt.CompoundTag$Anonymous$1ca4400899784f978f492e4d99117306.load(MixinCompoundTag.java:65) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	at net.minecraft.nbt.CompoundTag$Anonymous$1ca4400899784f978f492e4d99117306.m_7300_(MixinCompoundTag.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	at net.minecraft.nbt.NbtIo.m_128930_(NbtIo.java:153) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	at net.minecraft.nbt.NbtIo.m_128934_(NbtIo.java:99) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	at net.minecraft.nbt.NbtIo.m_128939_(NbtIo.java:35) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	at org.embeddedt.modernfix.structure.CachingStructureManager.readStructureTag(CachingStructureManager.java:61) ~[modernfix-forge-5.20.0+mc1.20.1.jar%23538!/:5.20.0+mc1.20.1]
+	at org.embeddedt.modernfix.command.ModernFixCommands.lambda$register$4(ModernFixCommands.java:44) ~[modernfix-forge-5.20.0+mc1.20.1.jar%23538!/:5.20.0+mc1.20.1]
+	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:264) ~[brigadier-1.1.8.jar%2376!/:?]
+	at net.minecraft.commands.Commands.m_242674_(Commands.java:257) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_246958_(ServerGamePacketListenerImpl.java:1244) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_244885_(ServerGamePacketListenerImpl.java:1221) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18693_(BlockableEventLoop.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.util.zip.ZipException: Corrupt GZIP trailer
+	at java.util.zip.GZIPInputStream.readTrailer(GZIPInputStream.java:225) ~[?:?]
+	at java.util.zip.GZIPInputStream.read(GZIPInputStream.java:119) ~[?:?]
+	at net.minecraft.util.FastBufferedInputStream.read(FastBufferedInputStream.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	at java.io.DataInputStream.readFully(DataInputStream.java:201) ~[?:?]
+	at java.io.DataInputStream.readUTF(DataInputStream.java:602) ~[?:?]
+	at java.io.DataInputStream.readUTF(DataInputStream.java:558) ~[?:?]
+	at net.minecraft.nbt.CompoundTag.m_128432_(CompoundTag.java:469) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	at net.minecraft.nbt.CompoundTag$Anonymous$1ca4400899784f978f492e4d99117306.load(MixinCompoundTag.java:62) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	at net.minecraft.nbt.CompoundTag$Anonymous$1ca4400899784f978f492e4d99117306.m_7300_(MixinCompoundTag.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	at net.minecraft.nbt.CompoundTag.m_128413_(CompoundTag.java:474) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	... 31 more
+[10Jan2025 02:10:24.801] [Server thread/ERROR] [ModernFix/]: Couldn't upgrade structure mvs:structures/houses/deepslate_house.nbt
+net.minecraft.ReportedException: Loading NBT data
+	at net.minecraft.nbt.CompoundTag.m_128413_(CompoundTag.java:480) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	at net.minecraft.nbt.CompoundTag$Anonymous$1ca4400899784f978f492e4d99117306.load(MixinCompoundTag.java:65) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	at net.minecraft.nbt.CompoundTag$Anonymous$1ca4400899784f978f492e4d99117306.m_7300_(MixinCompoundTag.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	at net.minecraft.nbt.ListTag$Anonymous$4318cedf899e49b598766534f49cd167.load(MixinListTag.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	at net.minecraft.nbt.ListTag$Anonymous$4318cedf899e49b598766534f49cd167.m_7300_(MixinListTag.java:40) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	at net.minecraft.nbt.CompoundTag.m_128413_(CompoundTag.java:474) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	at net.minecraft.nbt.CompoundTag$Anonymous$1ca4400899784f978f492e4d99117306.load(MixinCompoundTag.java:65) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	at net.minecraft.nbt.CompoundTag$Anonymous$1ca4400899784f978f492e4d99117306.m_7300_(MixinCompoundTag.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	at net.minecraft.nbt.NbtIo.m_128930_(NbtIo.java:153) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	at net.minecraft.nbt.NbtIo.m_128934_(NbtIo.java:99) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	at net.minecraft.nbt.NbtIo.m_128939_(NbtIo.java:35) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	at org.embeddedt.modernfix.structure.CachingStructureManager.readStructureTag(CachingStructureManager.java:61) ~[modernfix-forge-5.20.0+mc1.20.1.jar%23538!/:5.20.0+mc1.20.1]
+	at org.embeddedt.modernfix.command.ModernFixCommands.lambda$register$4(ModernFixCommands.java:44) ~[modernfix-forge-5.20.0+mc1.20.1.jar%23538!/:5.20.0+mc1.20.1]
+	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:264) ~[brigadier-1.1.8.jar%2376!/:?]
+	at net.minecraft.commands.Commands.m_242674_(Commands.java:257) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_246958_(ServerGamePacketListenerImpl.java:1244) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_244885_(ServerGamePacketListenerImpl.java:1221) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18693_(BlockableEventLoop.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.io.IOException: Invalid tag id: 14
+	at net.minecraft.nbt.TagType$1.m_197591_(TagType.java:58) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	at net.minecraft.nbt.TagType$1.m_7300_(TagType.java:63) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	at net.minecraft.nbt.TagType$1.m_7300_(TagType.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	at net.minecraft.nbt.CompoundTag.m_128413_(CompoundTag.java:474) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
+	... 31 more
+[10Jan2025 02:10:37.966] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18201ms or 364 ticks behind
+[10Jan2025 02:10:38.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Jorgerap> yoq
+[10Jan2025 02:10:43.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Jorgerap> solo recargaba
+[10Jan2025 02:10:45.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Jorgerap> las cosas
+[10Jan2025 02:11:02.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Jorgerap> tipi
+[10Jan2025 02:12:30.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgerap has made the advancement [Acquire Hardware]
+[10Jan2025 02:12:44.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Jorgerap> solo consegui 2 de hieerro
+[10Jan2025 02:12:46.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Jorgerap> kkkkkkk
+[10Jan2025 02:13:19.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Jorgerap> elq
+[10Jan2025 02:14:29.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: V_Recs was shot by Skeleton
+[10Jan2025 02:15:27.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Jorgerap> e
+[10Jan2025 02:15:28.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Jorgerap> sans
