@@ -4153,3 +4153,35 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [10Jan2025 01:02:15.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Server] /ban seb
 [10Jan2025 01:02:31.903] [Server thread/INFO] [ping-wheel/]: Channel update: Elsebass -> default
 [10Jan2025 01:02:32.376] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[10Jan2025 01:06:07.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: V_Recs has made the advancement [Acquire Hardware]
+[10Jan2025 01:07:46.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Server] no habla
+[10Jan2025 01:07:48.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Server] ni idea
+[10Jan2025 01:09:31.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: V_Recs has made the advancement [Isn't It Iron Pick]
+[10Jan2025 01:10:29.928] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-1, y=93, z=3}
+[10Jan2025 01:10:44.227] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-5, y=77, z=-13}
+[10Jan2025 01:10:52.827] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-12, y=76, z=-16}
+[10Jan2025 01:10:52.876] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-12, y=77, z=-16}
+[10Jan2025 01:12:23.350] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=66, y=68, z=31} BlockPos{x=-12, y=77, z=-16}
+[10Jan2025 01:14:07.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elsebass fell from a high place
+[10Jan2025 01:15:38.401] [Worker-Main-26/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[10Jan2025 01:18:37.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Server] porno
+[10Jan2025 01:18:41.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Server] gay sex
+[10Jan2025 01:19:09.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: V_Recs has made the advancement [Ant Farm]
+[10Jan2025 01:20:26.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elsebass has made the advancement [Stone Age]
+[10Jan2025 01:21:48.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elsebass has made the advancement [Getting an Upgrade]
+[10Jan2025 01:22:39.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Server] pero porq suena como brazuca
+[10Jan2025 01:24:54.823] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jorgerap[/127.47.181.146:60203] logged in with entity id 10493 at (8.480679593779962, 100.0, -6.595534006425848)
+[10Jan2025 01:24:54.829] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Jorgerap
+[10Jan2025 01:24:54.829] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Jorgerap
+[10Jan2025 01:24:54.829] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Jorgerap
+[10Jan2025 01:24:54.830] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Jorgerap
+[10Jan2025 01:24:54.831] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Jorgerap
+[10Jan2025 01:24:54.833] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Jorgerap
+[10Jan2025 01:24:54.833] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Jorgerap
+[10Jan2025 01:24:54.844] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[10Jan2025 01:24:54.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgerap joined the game
+[10Jan2025 01:24:54.938] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for e1ad1fa3-67f1-363d-8340-ce7cb4c86d00
+[10Jan2025 01:24:54.941] [Server thread/INFO] [Jade/]: Syncing config to Jorgerap (e1ad1fa3-67f1-363d-8340-ce7cb4c86d00)
+[10Jan2025 01:24:56.309] [Server thread/INFO] [ping-wheel/]: Channel update: Jorgerap -> default
+[10Jan2025 01:24:56.389] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[10Jan2025 01:25:41.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Jorgerap> E

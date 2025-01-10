@@ -4,9 +4,19 @@
 	name: "Elsebass#5d15a53b"
 	lock: false
 	rewards_blocked: false
-	task_progress: { }
-	started: { }
-	completed: { }
+	task_progress: {
+		0470194500CBE26C: 1
+	}
+	started: {
+		1D4E5CDD59FFB7A0: 1736471634176L
+		2574E7CF699D5B45: 1736471634176L
+		0470194500CBE26C: 1736471634176L
+		0000000000000001: 1736471634176L
+	}
+	completed: {
+		2574E7CF699D5B45: 1736471634177L
+		0470194500CBE26C: 1736471634177L
+	}
 	claimed_rewards: { }
 	player_data: { }
 }
