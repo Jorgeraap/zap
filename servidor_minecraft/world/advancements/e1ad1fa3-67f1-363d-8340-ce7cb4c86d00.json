@@ -137,6 +137,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cobbled_diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-10 01:54:28 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/lacugrove_taburet": {
     "criteria": {
       "has_stick": "2025-01-10 01:29:11 +0000"
@@ -152,6 +158,24 @@
   "betterend:recipes/decorations/end_lotus_ladder": {
     "criteria": {
       "has_stick": "2025-01-10 01:29:11 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-10 01:54:16 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_tiles_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-10 01:54:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2025-01-10 01:54:28 +0000"
     },
     "done": true
   },
@@ -221,6 +245,18 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cobbled_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-10 01:54:28 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_pavers_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-10 01:54:16 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-01-10 01:42:25 +0000"
@@ -233,9 +269,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/diorite_bricks_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-10 01:54:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-01-10 01:42:25 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/diorite_shingle_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-10 01:54:28 +0000"
     },
     "done": true
   },
@@ -323,6 +371,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/diorite_tile_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-10 01:54:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-01-10 01:29:05 +0000"
@@ -332,6 +386,12 @@
   "betterend:recipes/decorations/helix_tree_fence": {
     "criteria": {
       "has_stick": "2025-01-10 01:29:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-10 01:54:28 +0000"
     },
     "done": true
   },
@@ -407,6 +467,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/andesite_brick_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-10 01:54:16 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/cherry_drawer": {
     "criteria": {
       "has_planks": "2025-01-10 01:29:11 +0000"
@@ -428,6 +494,12 @@
   "betternether:recipes/decorations/nether_sakura_bar_stool": {
     "criteria": {
       "has_stick": "2025-01-10 01:29:11 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/diorite_brick_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-10 01:54:28 +0000"
     },
     "done": true
   },
@@ -476,6 +548,12 @@
   "stoneworks:recipes/building_blocks/mossy_granite_bricks_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-01-10 01:42:25 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/diorite_shingle_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-10 01:54:28 +0000"
     },
     "done": true
   },
@@ -569,9 +647,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-01-10 01:54:28 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/tenanea_bar_stool": {
     "criteria": {
       "has_stick": "2025-01-10 01:29:11 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-10 01:54:16 +0000"
     },
     "done": true
   },
@@ -617,6 +707,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/andesite_plate_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-10 01:54:16 +0000"
+    },
+    "done": true
+  },
   "aether_redux:recipes/transportation/fieldsproot_boat": {
     "criteria": {
       "in_water": "2025-01-10 01:40:35 +0000"
@@ -632,6 +728,24 @@
   "betternether:recipes/decorations/acacia_chair": {
     "criteria": {
       "has_stick": "2025-01-10 01:29:11 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_andesite_brick_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-10 01:54:16 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_andesite_bricks_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-10 01:54:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2025-01-10 01:54:28 +0000"
     },
     "done": true
   },
@@ -689,6 +803,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/diorite_shingle_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-10 01:54:28 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/redstone/wart_gate": {
     "criteria": {
       "has_stick": "2025-01-10 01:29:11 +0000"
@@ -713,9 +833,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-10 01:54:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2025-01-10 01:29:11 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/diorite_pillar_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-10 01:54:28 +0000"
     },
     "done": true
   },
@@ -815,6 +947,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-10 01:54:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2025-01-10 01:32:48 +0000"
@@ -851,6 +989,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/andesite_shingle_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-10 01:54:16 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/mossy_glowshroom_ladder": {
     "criteria": {
       "has_stick": "2025-01-10 01:29:11 +0000"
@@ -869,6 +1013,24 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/diorite_pavers_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-10 01:54:28 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/diorite_plate_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-10 01:54:28 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_pillar_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-10 01:54:16 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/nether_reed_fence": {
     "criteria": {
       "has_stick": "2025-01-10 01:29:11 +0000"
@@ -884,6 +1046,12 @@
   "betternether:recipes/redstone/rubeus_gate": {
     "criteria": {
       "has_stick": "2025-01-10 01:29:11 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-10 01:54:28 +0000"
     },
     "done": true
   },
@@ -995,6 +1163,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/diorite_paver_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-10 01:54:28 +0000"
+    },
+    "done": true
+  },
   "backpacked:recipes/decorations/spruce_backpack_shelf": {
     "criteria": {
       "has_stick": "2025-01-10 01:29:11 +0000"
@@ -1019,6 +1193,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_andesite_brick_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-10 01:54:16 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/stalagnate_chair": {
     "criteria": {
       "has_stick": "2025-01-10 01:29:11 +0000"
@@ -1040,6 +1220,18 @@
   "stoneworks:recipes/building_blocks/mossy_granite_brick_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-01-10 01:42:25 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/diorite_tile_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-10 01:54:28 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/diorite_plate_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-10 01:54:28 +0000"
     },
     "done": true
   },
@@ -1103,6 +1295,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-10 01:54:16 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/jungle_chair": {
     "criteria": {
       "has_stick": "2025-01-10 01:29:11 +0000"
@@ -1121,9 +1319,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-01-10 01:54:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
       "has_planks": "2025-01-10 01:29:04 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-10 01:54:28 +0000"
     },
     "done": true
   },
@@ -1160,6 +1370,12 @@
   "another_furniture:recipes/jungle_table": {
     "criteria": {
       "has_planks": "2025-01-10 01:29:04 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/diorite_corner_trim": {
+    "criteria": {
+      "has_diorite_corner_trim": "2025-01-10 01:54:28 +0000"
     },
     "done": true
   },
@@ -1229,6 +1445,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/flower_box": {
+    "criteria": {
+      "has_dirt": "2025-01-10 01:54:39 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/copy_terminite_upgrade": {
     "criteria": {
       "has_stick": "2025-01-10 01:29:11 +0000"
@@ -1247,6 +1469,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/diorite_paver_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-10 01:54:28 +0000"
+    },
+    "done": true
+  },
   "bclib:recipes/decorations/tag_smith_table": {
     "criteria": {
       "has_tag_minecraft_planks": "2025-01-10 01:29:04 +0000"
@@ -1259,6 +1487,18 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/andesite_corner_trim": {
+    "criteria": {
+      "has_andesite_corner_trim": "2025-01-10 01:54:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-10 01:54:16 +0000"
+    },
+    "done": true
+  },
   "aether_redux:recipes/transportation/blightwillow_boat": {
     "criteria": {
       "in_water": "2025-01-10 01:40:35 +0000"
@@ -1268,6 +1508,12 @@
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2025-01-10 01:29:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-10 01:54:16 +0000"
     },
     "done": true
   },
@@ -1337,6 +1583,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/building_blocks/rocky_dirt": {
+    "criteria": {
+      "has_dirt": "2025-01-10 01:54:39 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/iron_hammer": {
     "criteria": {
       "has_stick": "2025-01-10 01:29:11 +0000"
@@ -1391,6 +1643,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-10 01:54:16 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/thallasium_sword_handle": {
     "criteria": {
       "has_item.minecraft.stick": "2025-01-10 01:29:11 +0000"
@@ -1433,6 +1691,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cobbled_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-10 01:54:28 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/jungle_bench": {
     "criteria": {
       "has_jungle_bench": "2025-01-10 01:29:04 +0000"
@@ -1463,6 +1727,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/diorite_shingles_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-10 01:54:28 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/oak_table": {
     "criteria": {
       "has_planks": "2025-01-10 01:29:05 +0000"
@@ -1484,6 +1754,12 @@
   "betternether:recipes/decorations/stalagnate_fence": {
     "criteria": {
       "has_stick": "2025-01-10 01:29:11 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_diorite_bricks_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-10 01:54:28 +0000"
     },
     "done": true
   },
@@ -1511,6 +1787,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-01-10 01:54:16 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/anchor_tree_ladder": {
     "criteria": {
       "has_stick": "2025-01-10 01:29:11 +0000"
@@ -1520,6 +1802,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-01-10 01:30:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-10 01:54:28 +0000"
     },
     "done": true
   },
@@ -1631,6 +1919,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cobbled_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-10 01:54:28 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/transportation/skyroot_boat": {
     "criteria": {
       "in_water": "2025-01-10 01:40:35 +0000"
@@ -1679,6 +1973,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cobbled_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-10 01:54:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-01-10 01:29:04 +0000"
@@ -1697,6 +1997,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/diorite_tiles_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-10 01:54:28 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/anchor_tree_sign": {
     "criteria": {
       "has_stick": "2025-01-10 01:29:11 +0000"
@@ -1706,6 +2012,12 @@
   "handcrafted:recipes/misc/oak_drawer": {
     "criteria": {
       "has_oak_drawer": "2025-01-10 01:29:05 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_brick_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-10 01:54:16 +0000"
     },
     "done": true
   },
@@ -1901,6 +2213,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-10 01:54:16 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/mushroom_fir_sign": {
     "criteria": {
       "has_stick": "2025-01-10 01:29:11 +0000"
@@ -1925,6 +2243,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/andesite_paver_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-10 01:54:16 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_counter": {
     "criteria": {
       "has_oak_counter": "2025-01-10 01:29:05 +0000"
@@ -1934,6 +2258,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2025-01-10 01:40:35 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_bricks_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-10 01:54:16 +0000"
     },
     "done": true
   },
@@ -1982,6 +2312,18 @@
   "crabbersdelight:recipes/decorations/crab_trap": {
     "criteria": {
       "has_stick": "2025-01-10 01:29:11 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_plate_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-10 01:54:16 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_andesite_brick_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-10 01:54:16 +0000"
     },
     "done": true
   },
@@ -2111,6 +2453,24 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/diorite_tile_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-10 01:54:28 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_tile_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-10 01:54:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-10 01:54:16 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/redstone/end_lotus_gate": {
     "criteria": {
       "has_stick": "2025-01-10 01:29:11 +0000"
@@ -2165,6 +2525,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_andesite_bricks_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-10 01:54:16 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/nether_reed_chair": {
     "criteria": {
       "has_stick": "2025-01-10 01:29:11 +0000"
@@ -2213,6 +2579,18 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/andesite_plate_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-10 01:54:16 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-10 01:54:28 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/mangrove_drawer": {
     "criteria": {
       "has_planks": "2025-01-10 01:29:11 +0000"
@@ -2243,9 +2621,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cobbled_andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-10 01:54:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:zombie_villager": "2025-01-10 01:41:10 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_plates_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-10 01:54:16 +0000"
     },
     "done": true
   },
@@ -2291,6 +2681,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2025-01-10 01:54:28 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/granite_shingle_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-01-10 01:42:25 +0000"
@@ -2333,9 +2729,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/andesite_shingle_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-10 01:54:16 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-01-10 01:42:25 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/diorite_brick_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-10 01:54:28 +0000"
     },
     "done": true
   },
@@ -2405,6 +2813,18 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/diorite_plates_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-10 01:54:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-01-10 01:54:16 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-01-10 01:42:25 +0000"
@@ -2429,6 +2849,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-10 01:54:28 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/willow_fence": {
     "criteria": {
       "has_stick": "2025-01-10 01:29:11 +0000"
@@ -2447,6 +2873,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/diorite_plate_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-10 01:54:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:zombie_villager": "2025-01-10 01:41:10 +0000"
@@ -2459,9 +2891,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cracked_andesite_tiles_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-10 01:54:16 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/granite_plate_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-01-10 01:42:25 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-10 01:54:16 +0000"
     },
     "done": true
   },
@@ -2471,9 +2915,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_diorite_bricks_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-10 01:54:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2025-01-10 01:30:38 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_diorite_brick_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-10 01:54:28 +0000"
     },
     "done": true
   },
@@ -2504,6 +2960,24 @@
   "betternether:recipes/decorations/wart_sign": {
     "criteria": {
       "has_stick": "2025-01-10 01:29:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-10 01:54:28 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/chiseled_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-10 01:54:28 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_diorite_tiles_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-10 01:54:28 +0000"
     },
     "done": true
   },
@@ -2552,6 +3026,12 @@
   "betternether:recipes/decorations/acacia_taburet": {
     "criteria": {
       "has_stick": "2025-01-10 01:29:11 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-10 01:54:16 +0000"
     },
     "done": true
   },
@@ -2615,6 +3095,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/andesite_tile_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-10 01:54:16 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/granite_plate_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-01-10 01:42:25 +0000"
@@ -2630,6 +3116,12 @@
   "betternether:recipes/redstone/anchor_tree_gate": {
     "criteria": {
       "has_stick": "2025-01-10 01:29:11 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/chiseled_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-10 01:54:16 +0000"
     },
     "done": true
   },
@@ -2663,9 +3155,27 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_diorite_brick_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-10 01:54:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-01-10 01:41:10 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_shingle_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-10 01:54:16 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_diorite_brick_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-10 01:54:28 +0000"
     },
     "done": true
   },
@@ -2693,6 +3203,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/andesite_pillar_trim": {
+    "criteria": {
+      "has_andesite_pillar_trim": "2025-01-10 01:54:16 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/helix_tree_taburet": {
     "criteria": {
       "has_stick": "2025-01-10 01:29:11 +0000"
@@ -2711,9 +3227,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-10 01:54:28 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-10 01:54:16 +0000"
+    },
+    "done": true
+  },
   "hearth_and_home:recipes/oak_trim": {
     "criteria": {
       "has_item": "2025-01-10 01:29:05 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/diorite_brick_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-10 01:54:28 +0000"
     },
     "done": true
   },
@@ -2729,9 +3263,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/andesite_tile_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-10 01:54:16 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/twilight_oak_boat": {
     "criteria": {
       "in_water": "2025-01-10 01:40:35 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/diorite_paver_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-10 01:54:28 +0000"
     },
     "done": true
   },
@@ -2759,6 +3305,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/andesite_shingles_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-10 01:54:16 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_brown": {
     "criteria": {
       "has_stick": "2025-01-10 01:29:11 +0000"
@@ -2768,6 +3320,12 @@
   "farmersdelight:recipes/combat/flint_knife": {
     "criteria": {
       "has_stick": "2025-01-10 01:29:11 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/diorite_pillar_trim": {
+    "criteria": {
+      "has_diorite_pillar_trim": "2025-01-10 01:54:28 +0000"
     },
     "done": true
   },
@@ -2804,6 +3362,12 @@
   "supplementaries:recipes/sconce": {
     "criteria": {
       "has_torch": "2025-01-10 01:27:30 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_brick_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-10 01:54:16 +0000"
     },
     "done": true
   },
@@ -2879,6 +3443,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/andesite_paver_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-10 01:54:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2025-01-10 01:36:30 +0000"
@@ -2933,6 +3503,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-01-10 01:54:16 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_yellow": {
     "criteria": {
       "has_stick": "2025-01-10 01:29:11 +0000"
@@ -2984,6 +3560,24 @@
   "betterend:recipes/decorations/umbrella_tree_bar_stool": {
     "criteria": {
       "has_stick": "2025-01-10 01:29:11 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-10 01:54:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-01-10 01:54:16 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_paver_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-10 01:54:16 +0000"
     },
     "done": true
   },

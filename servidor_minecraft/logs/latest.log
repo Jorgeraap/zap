@@ -4230,3 +4230,13 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [10Jan2025 01:54:54.443] [pool-10-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_oak], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_meadow], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_wandering_trader_camp], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_swamp], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_mediterranean], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_jungle], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_tudor]] from pos BlockPos{x=427, y=72, z=-203}
 [10Jan2025 01:54:57.057] [Worker-Main-14/WARN] [lithostitched/]: Non-existent template pool reference: kaisyn:village/exclusives/mediterranean/villager_bishop
 [10Jan2025 01:54:57.521] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2256ms or 45 ticks behind
+[10Jan2025 01:58:32.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elsebass has made the advancement [Monster Hunter]
+[10Jan2025 01:58:57.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: V_Recs has made the advancement [Suit Up]
+[10Jan2025 01:59:25.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Jorgerap> minando
+[10Jan2025 01:59:51.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elsebass was slain by Murmur
+[10Jan2025 01:59:51.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: V_Recs has made the advancement [Flexible Schedule]
+[10Jan2025 02:00:03.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: V_Recs was slain by Murmur
+[10Jan2025 02:00:08.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Jorgerap> yeso es
+[10Jan2025 02:04:10.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: V_Recs fell from a high place
+[10Jan2025 02:04:55.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jorgerap: Teleported V_Recs to Elsebass]
+[10Jan2025 02:05:50.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Jorgerap> t

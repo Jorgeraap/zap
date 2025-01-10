@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "betternether:recipes/misc/copy_bowl_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-01-10 01:54:04 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-01-10 01:27:39 +0000"
@@ -65,6 +71,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-01-10 01:54:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-01-10 01:54:04 +0000"
+    },
+    "done": true
+  },
   "deep_aether:recipes/food/skyroot_milk_bucket_cake": {
     "criteria": {
       "has_quail_egg": "2025-01-10 01:26:17 +0000"
@@ -110,6 +128,12 @@
   "stoneworks:recipes/building_blocks/mossy_granite_brick_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-01-10 01:27:39 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_hoe_diamond": {
+    "criteria": {
+      "has_item.minecraft.diamond": "2025-01-10 01:54:04 +0000"
     },
     "done": true
   },
@@ -191,6 +215,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-01-10 01:54:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-01-10 01:27:39 +0000"
@@ -206,6 +236,12 @@
   "aether:recipes/tools/aether_saddle": {
     "criteria": {
       "has_leather": "2025-01-10 01:23:16 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flint_block": {
+    "criteria": {
+      "has_flint": "2025-01-10 01:52:56 +0000"
     },
     "done": true
   },
@@ -308,6 +344,12 @@
   "betterend:recipes/decorations/dragon_tree_taburet": {
     "criteria": {
       "has_stick": "2025-01-10 01:19:58 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_stairs_stonecutting": {
+    "criteria": {
+      "has_item": "2025-01-10 01:56:44 +0000"
     },
     "done": true
   },
@@ -461,6 +503,12 @@
     },
     "done": true
   },
+  "advancednetherite:recipes/misc/netherite_diamond_ingot": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:gems/diamond]": "2025-01-10 01:54:04 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/cherry_drawer": {
     "criteria": {
       "has_planks": "2025-01-10 01:19:58 +0000"
@@ -524,6 +572,12 @@
   "supplementaries:recipes/flags/flag_green": {
     "criteria": {
       "has_stick": "2025-01-10 01:19:58 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_pickaxe_diamond": {
+    "criteria": {
+      "has_item.minecraft.diamond": "2025-01-10 01:54:04 +0000"
     },
     "done": true
   },
@@ -692,6 +746,12 @@
   "stoneworks:recipes/building_blocks/mossy_cobbled_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-01-10 01:29:01 +0000"
+    },
+    "done": true
+  },
+  "shieldexp:recipes/diamond_shield": {
+    "criteria": {
+      "has_diamond": "2025-01-10 01:54:04 +0000"
     },
     "done": true
   },
@@ -1049,6 +1109,12 @@
     },
     "done": true
   },
+  "twigs:recipes/rhyolite/rhyolite_slab": {
+    "criteria": {
+      "has_item": "2025-01-10 01:56:44 +0000"
+    },
+    "done": true
+  },
   "aether_redux:recipes/combat/veridium_dart": {
     "criteria": {
       "has_feather": "2025-01-10 01:26:17 +0000"
@@ -1103,6 +1169,12 @@
     },
     "done": true
   },
+  "twigs:recipes/rhyolite/polished_rhyolite_bricks_from_rhyolite_stonecutting": {
+    "criteria": {
+      "has_item": "2025-01-10 01:56:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-01-10 01:37:27 +0000"
@@ -1129,6 +1201,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "beef": "2025-01-10 01:55:35 +0000",
       "glow_berries": "2025-01-10 01:44:34 +0000",
       "melon_slice": "2025-01-10 01:21:27 +0000"
     },
@@ -1179,6 +1252,12 @@
   "incubation:recipes/food/fried_egg": {
     "criteria": {
       "has_eggs": "2025-01-10 01:26:17 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/silver_ingot_from_blasting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-01-10 01:57:48 +0000"
     },
     "done": true
   },
@@ -1245,6 +1324,12 @@
   "stoneworks:recipes/building_blocks/diorite_plate_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-01-10 01:29:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-01-10 01:52:56 +0000"
     },
     "done": true
   },
@@ -1434,6 +1519,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/ash_brick": {
+    "criteria": {
+      "forge:ash": "2025-01-10 01:55:51 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/granite_brick_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-01-10 01:27:39 +0000"
@@ -1578,6 +1669,12 @@
     },
     "done": true
   },
+  "twigs:recipes/rhyolite/polished_rhyolite_stonecutting": {
+    "criteria": {
+      "has_item": "2025-01-10 01:56:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-01-10 01:13:53 +0000"
@@ -1611,6 +1708,12 @@
   "betternether:recipes/decorations/nether_sakura_fence": {
     "criteria": {
       "has_stick": "2025-01-10 01:19:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-01-10 01:54:04 +0000"
     },
     "done": true
   },
@@ -1686,6 +1789,12 @@
     },
     "done": true
   },
+  "betternether:recipes/tools/cincinnasite_axe_diamond": {
+    "criteria": {
+      "has_item.minecraft.diamond": "2025-01-10 01:54:04 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/diorite_corner_trim": {
     "criteria": {
       "has_diorite_corner_trim": "2025-01-10 01:29:46 +0000"
@@ -1722,6 +1831,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-01-10 01:54:04 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/building_blocks/bar_panel": {
     "criteria": {
       "has_ingot": "2025-01-10 01:37:27 +0000"
@@ -1755,6 +1870,18 @@
   "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
       "has_melon": "2025-01-10 01:19:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2025-01-10 01:54:04 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_wall": {
+    "criteria": {
+      "has_item": "2025-01-10 01:56:44 +0000"
     },
     "done": true
   },
@@ -1824,6 +1951,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/copy_netherite_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-01-10 01:54:04 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/copy_terminite_upgrade": {
     "criteria": {
       "has_stick": "2025-01-10 01:19:58 +0000"
@@ -1845,6 +1978,12 @@
   "betternether:recipes/redstone/nether_mushroom_gate": {
     "criteria": {
       "has_stick": "2025-01-10 01:19:58 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_jukebox": {
+    "criteria": {
+      "has_diamond": "2025-01-10 01:54:04 +0000"
     },
     "done": true
   },
@@ -2179,6 +2318,12 @@
     },
     "done": true
   },
+  "twigs:recipes/rhyolite/polished_rhyolite": {
+    "criteria": {
+      "has_item": "2025-01-10 01:56:44 +0000"
+    },
+    "done": true
+  },
   "boatload:recipes/transportation/crimson_boat": {
     "criteria": {
       "in_water": "2025-01-10 01:15:18 +0000"
@@ -2200,6 +2345,18 @@
   "betternether:recipes/decorations/nether_mushroom_chair": {
     "criteria": {
       "has_stick": "2025-01-10 01:19:58 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_stairs": {
+    "criteria": {
+      "has_item": "2025-01-10 01:56:44 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_shovel_diamond": {
+    "criteria": {
+      "has_item.minecraft.diamond": "2025-01-10 01:54:04 +0000"
     },
     "done": true
   },
@@ -2434,6 +2591,18 @@
     },
     "done": true
   },
+  "twigs:recipes/rhyolite/rhyolite_wall_stonecutting": {
+    "criteria": {
+      "has_item": "2025-01-10 01:56:44 +0000"
+    },
+    "done": true
+  },
+  "magnumtorch:recipes/decorations/emerald_magnum_torch": {
+    "criteria": {
+      "has_emerald": "2025-01-10 01:55:35 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/transportation/skyroot_boat": {
     "criteria": {
       "in_water": "2025-01-10 01:15:18 +0000"
@@ -2575,6 +2744,12 @@
   "decorative_blocks:recipes/building_blocks/jungle_palisade": {
     "criteria": {
       "has_log": "2025-01-10 01:13:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-01-10 01:54:04 +0000"
     },
     "done": true
   },
@@ -2848,6 +3023,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-01-10 01:54:04 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/jungle_corner_trim": {
     "criteria": {
       "has_jungle_corner_trim": "2025-01-10 01:19:38 +0000"
@@ -3028,6 +3209,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/misc/silver_ingot_from_smelting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-01-10 01:57:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-01-10 01:37:27 +0000"
@@ -3049,6 +3236,12 @@
   "supplementaries:recipes/checker": {
     "criteria": {
       "has_cobblestone": "2025-01-10 01:20:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-01-10 01:55:35 +0000"
     },
     "done": true
   },
@@ -3196,6 +3389,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-01-10 01:54:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2025-01-10 01:37:27 +0000"
@@ -3250,6 +3449,12 @@
     },
     "done": true
   },
+  "magnumtorch:recipes/decorations/diamond_magnum_torch": {
+    "criteria": {
+      "has_diamond": "2025-01-10 01:54:04 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-01-10 01:37:27 +0000"
@@ -3295,6 +3500,12 @@
   "biomesoplenty:recipes/transportation/jacaranda_boat": {
     "criteria": {
       "in_water": "2025-01-10 01:15:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-01-10 01:52:56 +0000"
     },
     "done": true
   },
@@ -3346,6 +3557,12 @@
     },
     "done": true
   },
+  "betternether:recipes/combat/cincinnasite_sword_diamond": {
+    "criteria": {
+      "has_item.minecraft.diamond": "2025-01-10 01:54:04 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/spruce_chair": {
     "criteria": {
       "has_stick": "2025-01-10 01:19:58 +0000"
@@ -3367,6 +3584,12 @@
   "stoneworks:recipes/building_blocks/cobbled_andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-01-10 01:29:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-01-10 01:58:32 +0000"
     },
     "done": true
   },
@@ -3418,6 +3641,12 @@
     },
     "done": true
   },
+  "betternether:recipes/misc/copy_flaming_ruby_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-01-10 01:54:04 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/redstone/willow_gate": {
     "criteria": {
       "has_stick": "2025-01-10 01:19:58 +0000"
@@ -3463,6 +3692,12 @@
   "handcrafted:recipes/misc/wither_skeleton_trophy": {
     "criteria": {
       "has_wither_skeleton_trophy": "2025-01-10 01:19:38 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/copy_cincinnasite_diamond_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-01-10 01:54:04 +0000"
     },
     "done": true
   },
@@ -3523,6 +3758,12 @@
   "stoneworks:recipes/building_blocks/diorite_brick_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-01-10 01:29:46 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_slab_stonecutting": {
+    "criteria": {
+      "has_item": "2025-01-10 01:56:44 +0000"
     },
     "done": true
   },
@@ -3616,9 +3857,21 @@
     },
     "done": true
   },
+  "galosphere:recipes/misc/raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2025-01-10 01:57:48 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/diorite_plates_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-01-10 01:29:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-01-10 01:54:04 +0000"
     },
     "done": true
   },
@@ -3637,6 +3890,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_lime": {
     "criteria": {
       "has_iron_ingot": "2025-01-10 01:37:27 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap": {
+    "criteria": {
+      "forge:ash": "2025-01-10 01:55:51 +0000"
     },
     "done": true
   },
@@ -3729,6 +3988,12 @@
       "has_diorite": "2025-01-10 01:29:46 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2025-01-10 01:58:32 +0000"
+    },
+    "done": false
   },
   "betternether:recipes/decorations/birch_chair": {
     "criteria": {
@@ -3823,6 +4088,12 @@
   "betternether:recipes/decorations/wart_sign": {
     "criteria": {
       "has_stick": "2025-01-10 01:19:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-01-10 01:54:04 +0000"
     },
     "done": true
   },
@@ -4060,6 +4331,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_gloves": {
+    "criteria": {
+      "has_diamond": "2025-01-10 01:54:04 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/bamboo_drawer": {
     "criteria": {
       "has_planks": "2025-01-10 01:19:58 +0000"
@@ -4102,9 +4379,21 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/copy_aeternium_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-01-10 01:54:04 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/stone_sword_repairing": {
     "criteria": {
       "has_stone_sword": "2025-01-10 01:22:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_fletching_table": {
+    "criteria": {
+      "has_flint": "2025-01-10 01:52:56 +0000"
     },
     "done": true
   },
@@ -4243,6 +4532,12 @@
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-01-10 01:23:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-01-10 01:54:04 +0000"
     },
     "done": true
   },
@@ -4393,6 +4688,12 @@
   "handcrafted:recipes/misc/white_cushion": {
     "criteria": {
       "has_white_cushion": "2025-01-10 01:26:27 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_emerald_ingot": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:gems/emerald]": "2025-01-10 01:55:35 +0000"
     },
     "done": true
   },
@@ -4687,6 +4988,12 @@
   "advancednetherite:recipes/misc/netherite_iron_ingot": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/iron]": "2025-01-10 01:37:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-01-10 01:54:04 +0000"
     },
     "done": true
   },
