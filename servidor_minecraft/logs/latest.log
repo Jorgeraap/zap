@@ -4131,3 +4131,25 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [10Jan2025 00:55:05.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Server] willy un tornado!!!!!1!111111
 [10Jan2025 00:55:13.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: V_Recs was slain by Husk
 [10Jan2025 00:55:31.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: V_Recs was shot by Skeleton
+[10Jan2025 00:56:31.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <V_Recs> xaero-waypoint:gui.xaero-deathpoint:D:-11:78:17:0:false:0:Internal-overworld-waypoints
+[10Jan2025 00:59:22.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: V_Recs has made the advancement [Getting an Upgrade]
+[10Jan2025 01:00:15.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: V_Recs hit the ground too hard
+[10Jan2025 01:00:30.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Server] tipi
+[10Jan2025 01:00:39.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Server] pero quieres keep inv o no
+[10Jan2025 01:00:49.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Server] vale
+[10Jan2025 01:01:35.545] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Elsebass[/127.197.73.0:39059] logged in with entity id 5487 at (-0.5, 92.0, 0.5)
+[10Jan2025 01:01:35.551] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Elsebass
+[10Jan2025 01:01:35.551] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Elsebass
+[10Jan2025 01:01:35.552] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Elsebass
+[10Jan2025 01:01:35.552] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Elsebass
+[10Jan2025 01:01:35.554] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Elsebass
+[10Jan2025 01:01:35.557] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Elsebass
+[10Jan2025 01:01:35.557] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Elsebass
+[10Jan2025 01:01:35.569] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[10Jan2025 01:01:35.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elsebass joined the game
+[10Jan2025 01:01:35.646] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 5d15a53b-aae9-36ee-b24b-7883ed1c013f
+[10Jan2025 01:01:35.656] [Server thread/INFO] [Jade/]: Syncing config to Elsebass (5d15a53b-aae9-36ee-b24b-7883ed1c013f)
+[10Jan2025 01:01:51.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Server] quien es fedep
+[10Jan2025 01:02:15.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Server] /ban seb
+[10Jan2025 01:02:31.903] [Server thread/INFO] [ping-wheel/]: Channel update: Elsebass -> default
+[10Jan2025 01:02:32.376] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.

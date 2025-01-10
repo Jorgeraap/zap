@@ -1,0 +1,17 @@
+{
+	id: "5d15a53b-aae9-36ee-b24b-7883ed1c013f"
+	type: "player"
+	player_name: "Elsebass"
+	ranks: {
+		5d15a53b-aae9-36ee-b24b-7883ed1c013f: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Elsebass"
+		"ftbteams:description": ""
+		"ftbteams:color": "#5982FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

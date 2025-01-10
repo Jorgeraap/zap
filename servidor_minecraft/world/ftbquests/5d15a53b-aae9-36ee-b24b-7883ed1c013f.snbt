@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "5d15a53baae936eeb24b7883ed1c013f"
+	name: "Elsebass#5d15a53b"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
