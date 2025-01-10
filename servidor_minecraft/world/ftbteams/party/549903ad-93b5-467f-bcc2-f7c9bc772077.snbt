@@ -1,0 +1,20 @@
+{
+	id: "549903ad-93b5-467f-bcc2-f7c9bc772077"
+	type: "party"
+	owner: "e1ad1fa3-67f1-363d-8340-ce7cb4c86d00"
+	ranks: {
+		e1ad1fa3-67f1-363d-8340-ce7cb4c86d00: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Haitianos de Rec"
+		"ftbteams:description": "Recs nos volvio esclavos sexuales"
+		"ftbteams:color": "#7DFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1736472386118L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Jorgerap\"}]}" }
+		{ from: "e1ad1fa3-67f1-363d-8340-ce7cb4c86d00", date: 1736472404339L, text: "{\"text\":\"d\"}" }
+	]
+	extra: { }
+}
